@@ -1,7 +1,7 @@
 Hi! I'm Le Phuoc Nhan 👋
 -------------
 
-### Back-end Developer
+### Web Developer
 -------------
 
 * 🌍  I'm living and working in Ho Chi Minh City, Vietnam
