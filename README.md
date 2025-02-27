@@ -8,24 +8,60 @@ Hi there! I'm Le Phuoc Nhan 👋
 * 🌱  I'm learning at Ton Duc Thang University
 * ✉️  You can contact me at [lephuocnhan0714@gmail.com](mailto:lephuocnhan0714@gmail.com)
 
-### Skills and tools
+### 🛠 Tech Stack
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
+
+<details open> 
+  <summary>
+    <h3>📈 Stats and Activity</h3>
+  </summary>
+  <h4>🔥 Streak Stats</h4>
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img 
+        title="🔥 Get streak stats for your profile at git.io/streak-stats" 
+        alt="NhanJunior's Streak"
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=nhanjunior14&theme=meta-light&hide_border=true&short_numbers=true"
+      />
+    </a>
+  </p>
+
+  <h4>💻 GitHub Profile Stats</h4>
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <a href="https://github.com/nhanjunior14">
+    <img 
+      alt="NhanJunior's Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=nhanjunior14&hide_border=true&show_icons=true&theme=default&title_color=#2f80ed&text_color=000000&icon_color=#2f80ed&include_all_commits=true&hide_border=true&count_private=true" 
+      />
+  </a>
+  
+  <a href="https://github.com/nhanjunior14">
+    <img 
+      alt="NhanJunior's Top Languages" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhanjunior14&langs_count=8&layout=compact&hide_border=true&hide_progress=true&hide=Less" height="195px"
+      />
+  </a>
+  <br/>
+  
+> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <a href="https://github.com/nhanjunior14">
+    <img 
+      alt="NhanJunior's Activity Graph" 
+      src="https://github-readme-activity-graph.vercel.app/graph/?username=nhanjunior14&theme=minimal&hide_border=true" 
+      />
+  </a>
+</details>
+<!-- https://cwallet.com/t/51Z8YCYG -->
 
 ### Connect with me
 
