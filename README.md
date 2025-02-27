@@ -61,7 +61,7 @@ Hi there! I'm Le Phuoc Nhan 👋
       />
   </a>
 </details>
-<!-- https://cwallet.com/t/51Z8YCYG -->
+<!-- https://cwallet.com/t/8NJPAM88 -->
 
 ### Connect with me
 
@@ -69,3 +69,8 @@ Hi there! I'm Le Phuoc Nhan 👋
     <a href="https://www.linkedin.com/in/nh%c3%a2n-l%c3%aa-237626270/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="42" /></a> 
   <a href="https://www.facebook.com/lenhan2806/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="42" /></a>
 </p>
+
+### 💖 Support
+<a href="https://cwallet.com/t/8NJPAM88" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
+<br/>
+[![paypal.me/nhanjunior](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/nhanjunior) - You can make a one-time donations via PayPal. I'll probably buy a coffee. :coffee:
