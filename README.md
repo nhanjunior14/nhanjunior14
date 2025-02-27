@@ -1,7 +1,7 @@
-Hi! I'm Le Phuoc Nhan 👋
+Hi there! I'm Le Phuoc Nhan 👋
 -------------
 
-### Web Developer
+### Full Stack Developer
 -------------
 
 * 🌍  I'm living and working in Ho Chi Minh City, Vietnam
@@ -31,6 +31,5 @@ Hi! I'm Le Phuoc Nhan 👋
 
 <p align="left"> 
     <a href="https://www.linkedin.com/in/nh%c3%a2n-l%c3%aa-237626270/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="42" /></a> 
-  <a href="https://www.facebook.com/lenhan2806/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="42" /></a> 
-  <a href="https://www.github.com/nhanjunior14/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="42" /></a>
+  <a href="https://www.facebook.com/lenhan2806/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="42" /></a>
 </p>
