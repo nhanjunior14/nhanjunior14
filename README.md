@@ -180,3 +180,93 @@ Hi there! I'm Le Phuoc Nhan 👋
 <a href="https://cwallet.com/t/8NJPAM88" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
 <br/>
 [![paypal.me/nhanjunior](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/nhanjunior) - You can make a one-time donations via PayPal. I'll probably buy a coffee. :coffee:
+
+
+
+
+
+
+
+
+
+<!-- # Hi there, I'm Le Phuoc Nhan 👋
+### Senior Game Backend & Distributed Systems Engineer | Platform Architect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Le%20Phuoc%20Nhan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-nhanjunior14-181717?style=for-the-badge&logo=github)](https://github.com/nhanjunior14)
+[![Email](https://img.shields.io/badge/Email-lephuocnhan0714@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:lephuocnhan0714@gmail.com)
+
+---
+
+### 🚀 About Me
+Experienced **Game Backend Engineer** with a proven track record of architecting high-concurrency, low-latency game servers and LiveOps CMS platforms for mobile titles with **millions of global downloads** across Google Play and Apple App Store.
+
+- 🕹️ **Core Domains**: Casual & Hyper-Casual Games, Casino Slots (RPT Math Models), Realtime Turn-based Multiplayer (Socket.IO & Protobuf v3), Web3 Gaming & LiveOps CMS.
+- ⚡ **High Concurrency & Low Latency**: Processing hundreds of thousands of concurrent player sessions with sub-30ms execution times.
+- 💳 **Mobile Monetization**: Server-to-server dual IAP validation (Apple StoreKit v2 ECC P-256 & Google Play Billing) and multi-network ad mediation postback processing (AdMob, IronSource, TapJoy, Adjoe, Fyber).
+- 🛠️ **Tech Stack**: Node.js, TypeScript, Go (Golang), Socket.IO, Redis, RabbitMQ, MongoDB, MySQL, React 18, Docker, PM2.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+```
+Backend & Realtime  : Node.js (>=20), TypeScript, Go, Express.js, Socket.IO v4, Protobuf v3
+Databases & Cache   : MongoDB / DocumentDB, MySQL2, Redis (ioredis), RSMQ
+Message Broker      : RabbitMQ (amqplib), Asynchronous Event-Driven Daemons
+Frontend & LiveOps  : React 18, TypeScript, Ant Design 5, Tailwind CSS, TanStack Query, Monaco Editor
+Cloud & DevOps      : AWS (S3, DocumentDB, RDS, MQ), Docker, Nginx, PM2 Cluster, CI/CD
+Monetization & Ads  : Apple StoreKit v2 SDK, Google Play Billing API, AdMob, IronSource, TapJoy, Fyber
+```
+
+---
+
+### 📊 GitHub Metrics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nhanjunior14&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhanjunior14&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🏆 Featured Architecture Highlights
+
+- **Hyper-Casual Mobile Platform & Postback Engine**: Scalable backend and background worker cluster serving millions of users, aggregating ad impression leads with asynchronous batch processing.
+- **Board Realm Multiplayer Game Engine**: Binary protocol pipeline using Google Protocol Buffers compiled to C# Unity and JavaScript, reducing mobile bandwidth by 65%.
+- **Vegas Casino Slot Suite**: Server engine powering 20+ independent slot themes, reel strip weighting, free spins state machines, and mathematical RPT tuning.
+- **Unified Multi-Game LiveOps CMS**: React 18 + Monaco JSON Editor portal managing cross-studio remote configs, ad network placement credentials, and live telemetry dashboards.
+
+---
+📫 **Get in Touch**: [lephuocnhan0714@gmail.com](mailto:lephuocnhan0714@gmail.com)
+
+
+
+# Le Phuoc Nhan
+## Senior Game Backend Engineer & Distributed Systems Lead
+
+> Driving mobile game scalability, server monetization, and realtime multiplayer infrastructure for titles reaching **millions of global players**.
+
+---
+
+### 🌟 Key Career Impact & Numbers
+- 📈 **Scale**: Engineered backend infrastructure serving casual, slot, and multiplayer titles with **millions of cumulative store downloads**.
+- ⚡ **Performance**: Reduced packet sizes by **65%** transitioning from JSON to **Google Protocol Buffers v3**, maintaining **<30ms** turn sync latency.
+- 🛡️ **Anti-Fraud**: Implemented server-side cryptographic IAP receipt verification (**Apple StoreKit v2 ECC P-256** & **Google Play API**), eliminating client-side receipt tampering.
+- 🔄 **Throughput**: Designed decoupled **RabbitMQ** worker architectures processing hundreds of thousands of daily ad postbacks without impacting core API latency.
+- 🎛️ **LiveOps Efficiency**: Built unified multi-studio CMS web portals with **Monaco JSON Editor** and **TanStack Query**, reducing game balancing deployment time from hours to instant zero-downtime updates.
+
+---
+
+### 💼 Portfolio Highlights
+
+| Project Domain | Core Technologies | Focus & Impact |
+| :--- | :--- | :--- |
+| **Hyper-Casual Platform** | Node.js, RabbitMQ, MySQL2, Redis | Ad attribution worker daemon for 5 major ad networks |
+| **Board Realm Engine** | Socket.IO, Google Protobuf v3, Redis | Turn-based kingdom builder & binary mobile protocol |
+| **Casino Slots Suite** | Node.js, MongoDB, Express, Redis | 20+ slot math engines, free spins & RPT balance |
+| **Multi-Game CMS Suite** | React 18, TypeScript, Ant Design 5 | Multi-studio publishing dashboard & live ad telemetry |
+| **Web3 Gaming Platform** | Node.js, Telegram Bot API, TON/EVM | Staking rewards, referral trees & transaction audit |
+
+---
+📫 **Contact**: [lephuocnhan0714@gmail.com](mailto:lephuocnhan0714@gmail.com) | [GitHub Profile](https://github.com/nhanjunior14) -->
